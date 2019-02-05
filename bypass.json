@@ -1,0 +1,6 @@
+[{
+  "site:":"cw.no",
+  "bypass-element-name":["pw-popup-main", "paywall-popup"],
+  "bypass-element-class":["blur"],
+  },
+]
